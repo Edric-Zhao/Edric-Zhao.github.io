@@ -4,7 +4,7 @@ papers:
   year: "2024"
   authors: "Ziao Liu, Xiao Xie, Moqi He, Wenshuo Zhao, Yihong Wu, Liqi Cheng, Hui Zhang, Yingcai Wu"
   venue: "IEEE Transactions on Visualization and Computer Graphics  2024"
-  paper_pdf: "assets\publications\Smartboard-Visual-Exploration-of-Team-Tactics-with-LLM-Agent.pdf"
+  paper_pdf: "assets/publications/Smartboard-Visual-Exploration-of-Team-Tactics-with-LLM-Agent.pdf"
   selected: y
 
   # - title: "Latent Action Pretraining from Videos"
