@@ -1,11 +1,11 @@
 experiences:
-- place: "Zhejiang University"
+- place: "ZJU-Scaling Logger"
   time: "Nov. 2024 - Present"
   title: "Undergraduate Intern (Advisor: Linchao Zhu)"
   subtitle: "LLM Reasoning and Token Efficiency"
-  category: "school"
+  category: "work"
 
-- place: "Zhejiang University"
+- place: "CausalML Lab"
   time: "Aug. 2024 - Feb. 2025"
   title: "Undergraduate Intern (Advisor: Kun Kuang)"
   subtitle: "LLM Attention Mechanism"
@@ -15,7 +15,7 @@ experiences:
   time: "Jan. 2024 - Jul. 2024"
   title: "Undergraduate Intern (Advisor: Yingcai Wu)"
   subtitle: "LLM Agent and Data Visualization"
-  category: "school"
+  category: "work"
 
 - place: "Zhejiang University"
   time: "Sep. 2022 - Present"

@@ -3,14 +3,13 @@ papers:
   year: "2025"
   authors: "Kairong Han*, <b>Wenshuo Zhao*</b>, Ziyu Zhao, Ye Jun Jian, Lujia Pan, Kun Kuang"
   venue: "ACL 2025 Under Review"
-  paper_pdf: " "
+  # paper_pdf: " "
   selected: y
 
 - title: "Insighter: Enhancing Reasoning of Sports Tactical Visualization with LLM Visual-Text Linking"
-  year: "2025"
   authors: "Ziao Liu, <b>Wenshuo Zhao</b>, Xiao Xie, Anqi Cao, Yihong Wu, Hui Zhang, Yingcai Wu"
   venue: "Under Review"
-  paper_pdf: " "
+  # paper_pdf: " "
   selected: y
 
 - title: "Smartboard: Visual Exploration of Team Tactics with LLM Agent"
