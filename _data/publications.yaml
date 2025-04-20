@@ -1,8 +1,21 @@
 papers:
+- title: "CAT: Causal Attention Tuning For Injecting Fine-grained Causal Knowledge into Large Language Models"
+  year: "2025"
+  authors: "Kairong Han*, <b>Wenshuo Zhao*</b>, Ziyu Zhao, Ye Jun Jian, Lujia Pan, Kun Kuang"
+  venue: "ACL 2025 Under Review"
+  paper_pdf: " "
+  selected: y
+
+- title: "Insighter: Enhancing Reasoning of Sports Tactical Visualization with LLM Visual-Text Linking"
+  year: "2025"
+  authors: "Ziao Liu, <b>Wenshuo Zhao</b>, Xiao Xie, Anqi Cao, Yihong Wu, Hui Zhang, Yingcai Wu"
+  venue: "Under Review"
+  paper_pdf: " "
+  selected: y
 
 - title: "Smartboard: Visual Exploration of Team Tactics with LLM Agent"
   year: "2024"
-  authors: "Ziao Liu, Xiao Xie, Moqi He, Wenshuo Zhao, Yihong Wu, Liqi Cheng, Hui Zhang, Yingcai Wu"
+  authors: "Ziao Liu, Xiao Xie, Moqi He, <b>Wenshuo Zhao</b>, Yihong Wu, Liqi Cheng, Hui Zhang, Yingcai Wu"
   venue: "IEEE Transactions on Visualization and Computer Graphics  2024"
   paper_pdf: "assets/publications/Smartboard-Visual-Exploration-of-Team-Tactics-with-LLM-Agent.pdf"
   selected: y

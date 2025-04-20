@@ -2,14 +2,20 @@ experiences:
 - place: "Zhejiang University"
   time: "Nov. 2024 - Present"
   title: "Undergraduate Intern (Advisor: Linchao Zhu)"
-  subtitle: "NLP and Multi-Agent"
+  subtitle: "LLM Reasoning and Token Efficiency"
+  category: "school"
+
+- place: "Zhejiang University"
+  time: "Aug. 2024 - Feb. 2025"
+  title: "Undergraduate Intern (Advisor: Kun Kuang)"
+  subtitle: "LLM Attention Mechanism"
   category: "school"
 
 - place: "Interactive Data Group"
-  time: "Jan. 2023 - Aug. 2023"
+  time: "Jan. 2024 - Jul. 2024"
   title: "Undergraduate Intern (Advisor: Yingcai Wu)"
   subtitle: "LLM Agent and Data Visualization"
-  category: "work"
+  category: "school"
 
 - place: "Zhejiang University"
   time: "Sep. 2022 - Present"
