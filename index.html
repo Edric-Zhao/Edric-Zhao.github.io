@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
+
+<style>
+  .four.columns img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover; /* 使图片填充指定区域并保持比例 */
+  }
+</style>
+
 <!-- ========== About ========== -->
 <div class="docs-section" id="about">
   <h5>About</h5>
@@ -167,7 +176,7 @@ layout: default
               {% endif %}
               <div class="four columns">
                 <div class="figure">
-                  <img src="{{ paper.image }}" width="100%">
+                  <img src="{{ paper.image }}">
                 </div>
               </div>
               <p class="title"><b>{{ paper.title }}</b></p>
