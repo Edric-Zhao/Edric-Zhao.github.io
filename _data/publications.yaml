@@ -3,7 +3,7 @@ papers:
   year: "2025"
   authors: "Kairong Han*, <b>Wenshuo Zhao*</b>, Ziyu Zhao, Ye Jun Jian, Lujia Pan, Kun Kuang"
   venue: "ACL 2025 Under Review"
-  iamge: assets/publications/CAT.png
+  image: assets/publications/CAT.png
   # paper_pdf: " "
   selected: y
 
