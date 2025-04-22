@@ -161,13 +161,13 @@ layout: default
       {% for paper in selected_papers %}
         <div class="paper">
           <div class="row">
-            <!--
+            
             <div class="four columns">
               <div class="figure">
                 <img src="{{ paper.image }}" width="100%">
               </div>
             </div>
-            -->
+           
             <div class="twelve columns">
               {% if paper.year %}
                 <p><h5>{{ paper.year }}</h5><hr /></p>
@@ -204,7 +204,7 @@ layout: default
           </div>       
         </div>
       {% endfor %}
-      <!-- <h6><b><i>( * indicates equal contribution )</i></b></h6> -->
+      <h6><b><i>( * indicates equal contribution )</i></b></h6>
     </div>
     
     <!-- <div class="tab-pane" id="papers-all">
