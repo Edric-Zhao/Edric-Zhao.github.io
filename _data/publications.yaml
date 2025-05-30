@@ -8,7 +8,7 @@ papers:
   # paper_pdf: " "
   selected: y
 
-  - title: "Steering LLM Thinking with Budget Guidance"
+- title: "Steering LLM Thinking with Budget Guidance"
   authors: "Junyan Li, <b>Wenshuo Zhao</b>, Yang Zhang, Chuang Gan"
   venue: "NeurIPS 2025 Under Review"
   image: 

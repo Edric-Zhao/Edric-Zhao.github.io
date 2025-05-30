@@ -1,8 +1,14 @@
 experiences:
+- place: "University of Massachusetts Amherst"
+  time: "Feb. 2025 - Present"
+  title: "Research Assistant (Advisor: Chuang Gan)"
+  subtitle: "LLM Reasoning Efficiency"
+  category: "work"
+
 - place: "ZJU-Scaling Logger"
   time: "Nov. 2024 - Present"
   title: "Undergraduate Intern (Advisor: Linchao Zhu)"
-  subtitle: "LLM Reasoning and Token Efficiency"
+  subtitle: "LLM RL Training and Reasoning Efficiency"
   category: "work"
 
 - place: "CausalML Lab"
