@@ -1,15 +1,30 @@
 papers:
-- title: "CAT: Causal Attention Tuning For Injecting Fine-grained Causal Knowledge into Large Language Models"
+
+- title: "MuTIS: Enhancing Reasoning Efficiency through Multi-Turn Intervention Sampling in Reinforcement Learning"
   year: "2025"
-  authors: "Kairong Han*, <b>Wenshuo Zhao*</b>, Ziyu Zhao, Ye Jun Jian, Lujia Pan, Kun Kuang"
-  venue: "ACL 2025 Under Review"
+  authors: "<b>Wenshuo Zhao</b>, Haoxing Zhai, Xinyu Qiu, Zhenting Qi, Shuhe Li, Linchao Zhu"
+  venue: "EMNLP 2025 Under Review"
+  image: assets/publications/CAT.png
+  # paper_pdf: " "
+  selected: y
+
+  - title: "Steering LLM Thinking with Budget Guidance"
+  authors: "Junyan Li, <b>Wenshuo Zhao</b>, Yang Zhang, Chuang Gan"
+  venue: "NeurIPS 2025 Under Review"
+  image: 
+  # paper_pdf: " "
+  selected: y
+
+- title: "CAT: Causal Attention Tuning For Injecting Fine-grained Causal Knowledge into Large Language Models"
+  authors: "Kairong Han, <b>Wenshuo Zhao</b>, Ziyu Zhao, Ye Jun Jian, Lujia Pan, Kun Kuang"
+  venue: "EMNLP 2025 Under Review"
   image: assets/publications/CAT.png
   # paper_pdf: " "
   selected: y
 
 - title: "Insighter: Enhancing Reasoning of Sports Tactical Visualization with LLM Visual-Text Linking"
   authors: "Ziao Liu, <b>Wenshuo Zhao</b>, Xiao Xie, Anqi Cao, Yihong Wu, Hui Zhang, Yingcai Wu"
-  venue: "Under Review"
+  venue: "Vis 2025 Under Review"
   image: assets/publications/Insight-Chaser.jpg
   # paper_pdf: " "
   selected: y
