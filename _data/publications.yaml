@@ -29,9 +29,9 @@ papers:
   # paper_pdf: " "
   selected: y
 
-- title: "Insighter: Enhancing Reasoning of Sports Tactical Visualization with LLM Visual-Text Linking"
+- title: "InsightChaser: Enhancing Visual Reasoning of Sports Tactical Visualization with Visual-Text Linking"
   authors: "Ziao Liu, <b>Wenshuo Zhao</b>, Xiao Xie, Anqi Cao, Yihong Wu, Hui Zhang, Yingcai Wu"
-  venue: "Vis 2025 Under Review"
+  venue: "Vis 2025"
   image: assets/publications/Insight-Chaser.jpg
   # paper_pdf: " "
   selected: y
