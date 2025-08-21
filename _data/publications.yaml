@@ -1,23 +1,30 @@
 papers:
-
-- title: "MuTIS: Enhancing Reasoning Efficiency through Multi-Turn Intervention Sampling in Reinforcement Learning"
-  year: "2025"
-  authors: "<b>Wenshuo Zhao</b>, Haoxing Zhai, Xinyu Qiu, Zhenting Qi, Shuhe Li, Linchao Zhu"
-  venue: "EMNLP 2025 Under Review"
-  image: assets/publications/CAT.png
-  # paper_pdf: " "
-  selected: y
-
 - title: "Steering LLM Thinking with Budget Guidance"
+  year: "Preprint"
   authors: "Junyan Li, <b>Wenshuo Zhao</b>, Yang Zhang, Chuang Gan"
   venue: "NeurIPS 2025 Under Review"
   image: 
   # paper_pdf: " "
   selected: y
 
+- title: "K-Function: Joint Pronunciation Transcription and Feedback for Evaluating Kids Language Function"
+  authors: "Shuhe Li*, Chenxu Guo*, Jiachen Lian, Cheol Jun Cho, <b>Wenshuo Zhao</b>, Xuanru Zhou, Dingkun Zhou, Sam Wang, Grace Wang, Jingze Yang, Jingyi Xu, Ruohan Bao, Elise Brenner, Brandon In, Francesca Pei, Maria Luisa Gorno-Tempini, Gopala Anumanchipalli"
+  venue: "ICASSP 2026 Under Review"
+  image: 
+  # paper_pdf: " "
+  selected: y
+
+- title: "MuTIS: Enhancing Reasoning Efficiency through Multi-Turn Intervention Sampling in Reinforcement Learning"
+  year: "2025"
+  authors: "<b>Wenshuo Zhao</b>, Haoxing Zhai, Xinyu Qiu, Zhenting Qi, Shuhe Li, Linchao Zhu"
+  venue: "EMNLP 2025"
+  image: assets/publications/CAT.png
+  # paper_pdf: " "
+  selected: y
+
 - title: "CAT: Causal Attention Tuning For Injecting Fine-grained Causal Knowledge into Large Language Models"
   authors: "Kairong Han, <b>Wenshuo Zhao</b>, Ziyu Zhao, Ye Jun Jian, Lujia Pan, Kun Kuang"
-  venue: "EMNLP 2025 Under Review"
+  venue: "EMNLP 2025"
   image: assets/publications/CAT.png
   # paper_pdf: " "
   selected: y
