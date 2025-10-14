@@ -1,14 +1,13 @@
 papers:
-- title: "Steering LLM Thinking with Budget Guidance"
+- title: "Mirage or Method? How Model–Task Alignment Induces Divergent RL Conclusions"
   year: "Preprint"
-  authors: "Junyan Li, <b>Wenshuo Zhao</b>, Yang Zhang, Chuang Gan"
+  authors: "Haoze Wu*, Cheng Wang*, <b>Wenshuo Zhao</b>, Junxian He"
   venue: "Under Review"
   image: 
   # paper_pdf: " "
   selected: y
 
 - title: "Steering LLM Thinking with Budget Guidance"
-  year: "Preprint"
   authors: "Junyan Li, <b>Wenshuo Zhao</b>, Yang Zhang, Chuang Gan"
   venue: "Under Review"
   image: 
