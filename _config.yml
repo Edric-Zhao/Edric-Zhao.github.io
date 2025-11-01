@@ -5,3 +5,7 @@ includes:    ./_includes
 collections:
   projects:
     output: true
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
