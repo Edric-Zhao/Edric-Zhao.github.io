@@ -1,6 +1,15 @@
 papers:
-- title: "Mirage or Method? How Model–Task Alignment Induces Divergent RL Conclusions"
+
+
+- title: "The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution"
   year: "Preprint"
+  authors: "Junlong Li*, <b>Wenshuo Zhao*</b>, Jian Zhao, Weihao Zeng, Haoze Wu, Xiaochen Wang, Rui Ge, Yuxuan Cao, Yuzhen Huang, Wei Liu, Junteng Liu, Zhaochen Su, Yiyang Guo, Fan Zhou, Lueyang Zhang, Juan Michelini, Xingyao Wang, Xiang Yue, Shuyan Zhou, Graham Neubig, Junxian He"
+  venue: "Under Review"
+  image: 
+  # paper_pdf: " "
+  selected: y
+
+- title: "Mirage or Method? How Model–Task Alignment Induces Divergent RL Conclusions"
   authors: "Haoze Wu*, Cheng Wang*, <b>Wenshuo Zhao</b>, Junxian He"
   venue: "Under Review"
   image: 
