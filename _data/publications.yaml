@@ -2,36 +2,35 @@ papers:
 
 
 - title: "The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution"
-  year: "Preprint"
+  year: "2025"
   authors: "Junlong Li*, <b>Wenshuo Zhao*</b>, Jian Zhao*, Weihao Zeng*, Haoze Wu*, Xiaochen Wang, Rui Ge, Yuxuan Cao, Yuzhen Huang, Wei Liu, Junteng Liu, Zhaochen Su, Yiyang Guo, Fan Zhou, Lueyang Zhang, Juan Michelini, Xingyao Wang, Xiang Yue, Shuyan Zhou, Graham Neubig, Junxian He"
-  venue: "Under Review"
+  venue: "ICLR 2026"
   image: 
   # paper_pdf: " "
   selected: y
 
 - title: "Mirage or Method? How Model–Task Alignment Induces Divergent RL Conclusions"
   authors: "Haoze Wu*, Cheng Wang*, <b>Wenshuo Zhao</b>, Junxian He"
-  venue: "Under Review"
+  venue: "ICLR 2026"
   image: 
   # paper_pdf: " "
   selected: y
 
 - title: "Steering LLM Thinking with Budget Guidance"
   authors: "Junyan Li, <b>Wenshuo Zhao</b>, Yang Zhang, Chuang Gan"
-  venue: "Under Review"
+  venue: "ACL 2026 Findings"
   image: 
   # paper_pdf: " "
   selected: y
 
 - title: "K-Function: Joint Pronunciation Transcription and Feedback for Evaluating Kids Language Function"
   authors: "Shuhe Li*, Chenxu Guo*, Jiachen Lian, Cheol Jun Cho, <b>Wenshuo Zhao</b>, Xuanru Zhou, Dingkun Zhou, Sam Wang, Grace Wang, Jingze Yang, Jingyi Xu, Ruohan Bao, Elise Brenner, Brandon In, Francesca Pei, Maria Luisa Gorno-Tempini, Gopala Anumanchipalli"
-  venue: "Under Review"
+  venue: "ICASSP 2026"
   image: 
   # paper_pdf: " "
   selected: y
 
 - title: "MuTIS: Enhancing Reasoning Efficiency through Multi-Turn Intervention Sampling in Reinforcement Learning"
-  year: "2025"
   authors: "<b>Wenshuo Zhao</b>, Haoxing Zhai, Xinyu Qiu, Zhenting Qi, Shuhe Li, Linchao Zhu"
   venue: "EMNLP 2025"
   image: assets/publications/CAT.png
